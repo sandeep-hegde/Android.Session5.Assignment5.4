@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Context XML</string>
+    <string name="action_1">ACTION 1</string>
+    <string name="action_2">ACTION 2</string>
+    <string name="action_3">ACTION 3</string>
+    <string name="context_menu">CONTEXT MENU</string>
+</resources>
